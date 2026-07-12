@@ -1,0 +1,452 @@
+[
+  {
+    "Pagina": 1,
+    "Total Recebido": "300KG",
+    "Total Devolvido": "196KG",
+    "Justificativa": "4",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 2,
+    "Total Recebido": "390KG",
+    "Total Devolvido": "106KG",
+    "Justificativa": "3",
+    "Dia": "10",
+    "Mes": "05",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 3,
+    "Total Recebido": "280KG",
+    "Total Devolvido": "216KG",
+    "Justificativa": "7",
+    "Dia": "30",
+    "Mes": "10",
+    "Ano": "2013"
+  },
+  {
+    "Pagina": 4,
+    "Total Recebido": "406KG",
+    "Total Devolvido": "90KG",
+    "Justificativa": "2",
+    "Dia": "22",
+    "Mes": "04",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 5,
+    "Total Recebido": "400KG",
+    "Total Devolvido": "96KG",
+    "Justificativa": "1",
+    "Dia": null,
+    "Mes": null,
+    "Ano": null
+  },
+  {
+    "Pagina": 6,
+    "Total Recebido": "300KG",
+    "Total Devolvido": "196KG",
+    "Justificativa": "1",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 7,
+    "Total Recebido": "200KG",
+    "Total Devolvido": "296KG",
+    "Justificativa": "1",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2020"
+  },
+  {
+    "Pagina": 8,
+    "Total Recebido": "300KG",
+    "Total Devolvido": "196KG",
+    "Justificativa": "2",
+    "Dia": null,
+    "Mes": "05",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 9,
+    "Total Recebido": "296KG",
+    "Total Devolvido": "200KG",
+    "Justificativa": "1",
+    "Dia": "14",
+    "Mes": "06",
+    "Ano": "2025"
+  },
+  {
+    "Pagina": 10,
+    "Total Recebido": "400KG",
+    "Total Devolvido": "96KG",
+    "Justificativa": "4",
+    "Dia": "03",
+    "Mes": "09",
+    "Ano": "2023"
+  },
+  {
+    "Pagina": 11,
+    "Total Recebido": "450KG",
+    "Total Devolvido": "46KG",
+    "Justificativa": "1",
+    "Dia": "28",
+    "Mes": "09",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 12,
+    "Total Recebido": "496KG",
+    "Total Devolvido": "0KG",
+    "Justificativa": null,
+    "Dia": "07",
+    "Mes": "05",
+    "Ano": "1920"
+  },
+  {
+    "Pagina": 13,
+    "Total Recebido": "496",
+    "Total Devolvido": null,
+    "Justificativa": null,
+    "Dia": "11",
+    "Mes": "09",
+    "Ano": "2007"
+  },
+  {
+    "Pagina": 14,
+    "Total Recebido": "400KG",
+    "Total Devolvido": "96KG",
+    "Justificativa": "2",
+    "Dia": "25",
+    "Mes": "07",
+    "Ano": "2007"
+  },
+  {
+    "Pagina": 15,
+    "Total Recebido": "496KG",
+    "Total Devolvido": "0",
+    "Justificativa": null,
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 16,
+    "Total Recebido": "496KG",
+    "Total Devolvido": "96KG",
+    "Justificativa": "3",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 17,
+    "Total Recebido": "10",
+    "Total Devolvido": "13",
+    "Justificativa": "3",
+    "Dia": "01",
+    "Mes": null,
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 18,
+    "Total Recebido": "300KG",
+    "Total Devolvido": "196KG",
+    "Justificativa": "1",
+    "Dia": "24",
+    "Mes": "04",
+    "Ano": "2025"
+  },
+  {
+    "Pagina": 19,
+    "Total Recebido": "400",
+    "Total Devolvido": "96",
+    "Justificativa": "1",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 20,
+    "Total Recebido": "40",
+    "Total Devolvido": "456",
+    "Justificativa": "3",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 21,
+    "Total Recebido": "1080KG",
+    "Total Devolvido": "1308KG",
+    "Justificativa": "1",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 22,
+    "Total Recebido": "496KG",
+    "Total Devolvido": "497KG",
+    "Justificativa": "6",
+    "Dia": "31",
+    "Mes": "02",
+    "Ano": "1000"
+  },
+  {
+    "Pagina": 23,
+    "Total Recebido": "496KG",
+    "Total Devolvido": "96KG",
+    "Justificativa": "4",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 24,
+    "Total Recebido": "496KG",
+    "Total Devolvido": "296KG",
+    "Justificativa": "3",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 25,
+    "Total Recebido": "300KG",
+    "Total Devolvido": "196KG",
+    "Justificativa": "3",
+    "Dia": "07",
+    "Mes": "07",
+    "Ano": "2007"
+  },
+  {
+    "Pagina": 26,
+    "Total Recebido": "250KG",
+    "Total Devolvido": "246KG",
+    "Justificativa": "2",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 27,
+    "Total Recebido": "500",
+    "Total Devolvido": "0",
+    "Justificativa": null,
+    "Dia": "22",
+    "Mes": "22",
+    "Ano": "2022"
+  },
+  {
+    "Pagina": 28,
+    "Total Recebido": "500",
+    "Total Devolvido": "3",
+    "Justificativa": "4",
+    "Dia": "11",
+    "Mes": "01",
+    "Ano": "2028"
+  },
+  {
+    "Pagina": 29,
+    "Total Recebido": "300KG",
+    "Total Devolvido": "196KG",
+    "Justificativa": "4",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 30,
+    "Total Recebido": "493KG",
+    "Total Devolvido": "3KG",
+    "Justificativa": "1",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 31,
+    "Total Recebido": "3KG",
+    "Total Devolvido": "509KG",
+    "Justificativa": "2",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 32,
+    "Total Recebido": "100000KG",
+    "Total Devolvido": "15000KG",
+    "Justificativa": "3",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 33,
+    "Total Recebido": "1000KG",
+    "Total Devolvido": "1679KG",
+    "Justificativa": "6",
+    "Dia": "32",
+    "Mes": "13",
+    "Ano": "1822"
+  },
+  {
+    "Pagina": 34,
+    "Total Recebido": "300kg",
+    "Total Devolvido": "196kg",
+    "Justificativa": "2",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 35,
+    "Total Recebido": "300kg",
+    "Total Devolvido": "196kg",
+    "Justificativa": "1",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 36,
+    "Total Recebido": "40000,00",
+    "Total Devolvido": "500,00",
+    "Justificativa": null,
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "50"
+  },
+  {
+    "Pagina": 37,
+    "Total Recebido": "496.0KG",
+    "Total Devolvido": "0",
+    "Justificativa": null,
+    "Dia": "14",
+    "Mes": "12",
+    "Ano": "45"
+  },
+  {
+    "Pagina": 38,
+    "Total Recebido": "496.0KG",
+    "Total Devolvido": "0",
+    "Justificativa": null,
+    "Dia": "12",
+    "Mes": "12",
+    "Ano": "2000"
+  },
+  {
+    "Pagina": 39,
+    "Total Recebido": "496.0",
+    "Total Devolvido": "0",
+    "Justificativa": null,
+    "Dia": "09",
+    "Mes": "03",
+    "Ano": "2025"
+  },
+  {
+    "Pagina": 40,
+    "Total Recebido": "301",
+    "Total Devolvido": "195",
+    "Justificativa": "2",
+    "Dia": "01",
+    "Mes": "01",
+    "Ano": "2024"
+  },
+  {
+    "Pagina": 41,
+    "Total Recebido": "500",
+    "Total Devolvido": "02",
+    "Justificativa": "5",
+    "Dia": "03",
+    "Mes": "14",
+    "Ano": "2029"
+  },
+  {
+    "Pagina": 42,
+    "Total Recebido": "303kg",
+    "Total Devolvido": "192kg",
+    "Justificativa": "2",
+    "Dia": "29",
+    "Mes": "02",
+    "Ano": "2100"
+  },
+  {
+    "Pagina": 43,
+    "Total Recebido": "300.0kg",
+    "Total Devolvido": "256.0kg",
+    "Justificativa": "1",
+    "Dia": "15",
+    "Mes": "02",
+    "Ano": "1999"
+  },
+  {
+    "Pagina": 44,
+    "Total Recebido": "256.0kg",
+    "Total Devolvido": "240.0kg",
+    "Justificativa": "2",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2026"
+  },
+  {
+    "Pagina": 45,
+    "Total Recebido": "195.0kg",
+    "Total Devolvido": "404.4kg",
+    "Justificativa": "3",
+    "Dia": "02",
+    "Mes": "07",
+    "Ano": "2025"
+  },
+  {
+    "Pagina": 46,
+    "Total Recebido": "496.0",
+    "Total Devolvido": null,
+    "Justificativa": null,
+    "Dia": "18",
+    "Mes": "09",
+    "Ano": "2027"
+  },
+  {
+    "Pagina": 47,
+    "Total Recebido": "353,40kg",
+    "Total Devolvido": "40,40kg",
+    "Justificativa": "4",
+    "Dia": "17",
+    "Mes": "06",
+    "Ano": "2027"
+  },
+  {
+    "Pagina": 48,
+    "Total Recebido": "500",
+    "Total Devolvido": "4",
+    "Justificativa": "5",
+    "Dia": "05",
+    "Mes": "13",
+    "Ano": "2029"
+  },
+  {
+    "Pagina": 49,
+    "Total Recebido": "300",
+    "Total Devolvido": "196",
+    "Justificativa": "2",
+    "Dia": "31",
+    "Mes": "05",
+    "Ano": "2025"
+  },
+  {
+    "Pagina": 50,
+    "Total Recebido": "496",
+    "Total Devolvido": "0",
+    "Justificativa": null,
+    "Dia": "02",
+    "Mes": "07",
+    "Ano": "2021"
+  }
+]

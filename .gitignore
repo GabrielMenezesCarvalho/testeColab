@@ -1,0 +1,10 @@
+# Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Saídas geradas pelo pipeline / Colab
+tmp/
+
+# Arquivos locais do Python
+__pycache__/
+*.py[cod]
